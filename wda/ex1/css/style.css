@@ -1,0 +1,17 @@
+#main
+{
+  margin:auto;
+  width:500px;
+}
+body
+{
+  background-color:#f2f2f2 ;
+  font-family: sans-serif;
+}
+.quote{
+  text-align: center;
+  border-color: #ffffff;
+  border-style: solid;
+
+  width:500px;
+}
